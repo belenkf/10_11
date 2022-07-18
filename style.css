@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.header{
+    
+}
+h1{
+    color: #7c2004;
+    text-transform: uppercase;
+}
+body{
+    display: flex;
+    align-items: center;
+    margin: 3px;
+    padding: 2px;
+    background-color: #e9f175;
+    opacity: 90%;
+    border: 3px dashed salmon;
+    border-radius: 5px;
+}
+button{
+    margin: 3px;
+    padding: 2px;
+    position: relative;
+    background-color: #a3f339;
+    transition: 5ms;
+}
